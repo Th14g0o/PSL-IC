@@ -3,7 +3,7 @@
 
 ## Diagramas
 - [Diagrama ER](Diagramas/DiagramaER.jpeg)
-- [Modelo Relacional](Diagramas/DiagramaER.jpeg)
+- [Modelo Relacional](Diagramas/ModeloRelacional.jpeg)
 
 ##
 ![Apache2 bottom](https://img.shields.io/badge/Apache2-white?logo=apache&&logoColor=D22128&style=for-the-badge)
