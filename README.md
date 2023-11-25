@@ -2,8 +2,8 @@
 > Projeto Sites Linux - Instalação e Configuração de servidores 2023
 
 ## Diagramas
-- [Diagrama ER](Diagramas/DiagramaER.jpeg)
-- [Modelo Relacional](Diagramas/ModeloRelacional.jpeg)
+- [Diagrama ER](./confs-mysql/DiagramaER.jpeg)
+- [Modelo Relacional](./confs-mysql/ModeloRelacional.jpeg)
 
 ##
 ![Apache2 bottom](https://img.shields.io/badge/Apache2-white?logo=apache&&logoColor=D22128&style=for-the-badge)
