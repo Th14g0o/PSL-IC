@@ -2,7 +2,7 @@
 > Projeto Sites Linux - Instalação e Configuração de servidores 2023
 
 ## Diagramas
-- [Diagrama ER](./confs-mysql/DiagramaER.jpeg)
+- [Diagrama ER](./confs-mysql/DER.jpeg)
 - [Modelo Relacional](./confs-mysql/ModeloRelacional.jpeg)
 
 ## MYSQL
