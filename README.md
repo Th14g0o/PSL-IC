@@ -6,7 +6,7 @@
 - [Modelo Relacional](./confs-mysql/ModeloRelacional.jpeg)
 
 ## MYSQL
-- [SQL com a estrutura do banco](./confs-mysql/estrutura_banco.sql)
+- [SQL com a estrutura do banco](./confs-mysql/estrutura_bd.sql)
 
 ##
 ![Apache2 bottom](https://img.shields.io/badge/Apache2-white?logo=apache&&logoColor=D22128&style=for-the-badge)
