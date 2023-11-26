@@ -29,7 +29,7 @@ CREATE TABLE `autores` (
   `email` varchar(30) NOT NULL,
   PRIMARY KEY (`id`),
   UNIQUE KEY `email` (`email`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -41,13 +41,13 @@ DROP TABLE IF EXISTS `noticias`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `noticias` (
   `id` int(6) unsigned NOT NULL AUTO_INCREMENT,
-  `titulo` varchar(30) NOT NULL,
-  `texto` varchar(30) NOT NULL,
+  `titulo` varchar(100) NOT NULL,
+  `texto` varchar(2000) NOT NULL,
   `id_autor` int(6) unsigned NOT NULL,
   PRIMARY KEY (`id`),
   KEY `id_autor` (`id_autor`),
   CONSTRAINT `noticias_ibfk_1` FOREIGN KEY (`id_autor`) REFERENCES `autores` (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
@@ -59,4 +59,4 @@ CREATE TABLE `noticias` (
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2023-11-25 21:05:55
+-- Dump completed on 2023-11-26 17:09:36
