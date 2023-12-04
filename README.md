@@ -10,7 +10,7 @@
 
 ## Apresentações
 - [Video sem persistencia](https://youtu.be/_vKVs9yGKeU?si=ZR9QZVSjn8rmPg61)
-- [Aprsentação em Slide](https://docs.google.com/presentation/d/1QPW3CmunJjaMgMAWBxxulVTeMCg9_qOblVGvjVvEsao/edit?usp=sharing)
+- [Apresentação em Slide](https://docs.google.com/presentation/d/1QPW3CmunJjaMgMAWBxxulVTeMCg9_qOblVGvjVvEsao/edit?usp=sharing)
 
 ##
 ![Apache2 bottom](https://img.shields.io/badge/Apache2-white?logo=apache&&logoColor=D22128&style=for-the-badge)
