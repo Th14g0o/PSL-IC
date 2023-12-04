@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>Drama K News</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="estilos/modelo.css" />
+    <link rel="stylesheet" href="estilos/criarNoticias.css" />
+  
+</head>
+<body>
+    <header>
+        <h1>Drama K News</h1>
+    </header>
+    <main>
+        <section>
+            <h1>EDITAR NOTICIA</h1>
+
+            <div class="container">
+                <hr>
+                <h2>TITULO DA NOTICIA</h2>
+                <form method="post" action="VerMinhasNoticias.html">
+                    <input type="text"  value="Valor antigo"  name="titulo"/>
+                
+                    <h2 class="afastamento">CONTEÚDO DA NOTICIA</h2>
+                    <textarea type="text"  name="texto" minlength="10" maxlength="2000">Valor antiga</textarea><br/>
+                    <input name='id_autor' hidden value='1'/>
+                    <hr>
+                    <input type="submit" class="BtPadraoAnima" value="Atualizar noticia"/>		    
+                </form>
+                
+            </div>
+            <div class="botoes">
+               
+                <button>
+                    <a class="BtPadraoAnima" href='VerMinhasNoticias.html'>Voltar</a>
+                </button>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <h3>Drama K News</h3>
+    </footer>
+</body>
+</html>
+
+

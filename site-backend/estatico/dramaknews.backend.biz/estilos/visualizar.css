@@ -1,0 +1,65 @@
+main section h1{
+    font-size: 2em;
+    color: #454463;
+    font-weight: normal;
+    
+}
+section{
+    margin: auto;
+
+}
+section .bloco{
+    border: 1px  solid rgb(255, 255, 255);
+    width: 70%;
+    margin: 0 auto;
+  
+
+}
+section .bloco p{
+    font-size: 125%;
+}
+hr{ 
+    border: 15px solid #79A1BD;
+    margin-top:1.5em ;
+    margin-bottom: 1.5em;
+}
+
+.titulo{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: 0 auto;
+}
+
+
+
+.limpar{
+    clear: both;
+}
+
+.bot{
+    margin-top: 2em;
+ }
+
+ a{
+    text-decoration: none;
+    color: white;
+ }
+
+ .bot button{
+    background-color: transparent;
+    border:none;
+ }
+ .bot button a{
+     display: block;
+    width: 8em;
+    height: 2em;
+    font-size: 1.2em;
+    background-color: #9B89A7;
+    margin-right: 10px;
+    border-radius: 24em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 
