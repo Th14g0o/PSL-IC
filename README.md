@@ -9,7 +9,7 @@
 - [SQL com a estrutura do banco](./confs-mysql/estrutura_bd.sql)
 
 ## Apresentações
-- [Video sem persistencia](https://youtu.be/_vKVs9yGKeU?si=ZR9QZVSjn8rmPg61)
+- [Vídeo](https://youtu.be/C3h5zZBxqBI?si=krmOi_Ck9gUWwjp0)
 - [Apresentação em Slide](https://docs.google.com/presentation/d/1QPW3CmunJjaMgMAWBxxulVTeMCg9_qOblVGvjVvEsao/edit?usp=sharing)
 
 ##
