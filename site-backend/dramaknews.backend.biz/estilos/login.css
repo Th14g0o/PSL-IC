@@ -1,0 +1,85 @@
+
+main {
+    align-self: flex-end;
+}
+section > h2{
+    text-align: center;
+    font-size: 200%;
+    color: #454463;
+    font-weight: normal;
+    margin-bottom: 14px;
+}
+section > form{
+    margin: 0 auto;
+    border: 20px solid #79A1BD;
+    /* width: 80%; */
+    width: 50%;
+    box-sizing: border-box;
+    padding: 2em 20px;
+}
+
+section > form > div input{
+    display: block;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: #D9D9D9;
+    border:none;
+    outline: none;
+    margin-top: 5px;
+    border-radius: 10px;    
+}
+section > form > input{
+    background-color: #9B89A7;
+    color: white;
+    text-decoration: none;
+    padding: 5px 30px;
+    display: block;
+    width: fit-content;
+    margin: 10px auto;
+    margin-top: 1.5em;
+    font-size: 125%;
+    border-radius: 1em;
+    border: none;
+}
+section > form > button{
+    background-color: transparent;
+    border: none;
+    margin: 0 auto;
+    display: block;
+}
+section > form > button a{
+    color: #929292;
+    text-decoration: none;
+    font-size: 130%;
+
+}
+section > form > button a:hover, section > form > button a:hover b{
+    color: #9B89A7;
+    border-color: #9B89A7;
+
+
+}
+section > form > button a b{
+    margin-left: 1px;
+    font-weight: normal;
+    border-bottom: 2px solid #929292;
+}
+section > button{
+    background-color: transparent;
+    border: none;
+    margin: 1em auto;
+    display: block;
+}
+section > button a{
+    background-color: #9B89A7;
+    color: white;
+    text-decoration: none;
+    font-size: 130%;
+    padding: 5px 30px;
+    display: block;
+    width: fit-content;
+    margin: 10px auto;
+    border-radius: 1em;
+}
