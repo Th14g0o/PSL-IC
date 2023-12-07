@@ -1,11 +1,9 @@
 # PSL-ICS 2023
 > Projeto Sites Linux - Instalação e Configuração de servidores 2023
 
-## Diagramas
+## Confs-mysql
 - [Diagrama ER](./confs-mysql/DER.jpeg)
 - [Modelo Relacional](./confs-mysql/ModeloRelacional.jpeg)
-
-## MYSQL
 - [SQL com a estrutura do banco](./confs-mysql/estrutura_bd.sql)
 
 ## Apresentações
