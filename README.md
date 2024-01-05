@@ -8,6 +8,7 @@
 
 ## Apresentações
 - [Vídeo](https://youtu.be/C3h5zZBxqBI?si=krmOi_Ck9gUWwjp0)
+- [Vídeo do Azure](https://youtu.be/nC8gmWpq4nE)
 - [Apresentação em Slide](https://docs.google.com/presentation/d/1QPW3CmunJjaMgMAWBxxulVTeMCg9_qOblVGvjVvEsao/edit?usp=sharing)
 
 ##
