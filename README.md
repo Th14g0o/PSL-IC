@@ -10,6 +10,7 @@
 - [Vídeo](https://youtu.be/C3h5zZBxqBI?si=krmOi_Ck9gUWwjp0)
 - [Vídeo do Azure](https://youtu.be/nC8gmWpq4nE)
 - [Apresentação em Slide](https://docs.google.com/presentation/d/1QPW3CmunJjaMgMAWBxxulVTeMCg9_qOblVGvjVvEsao/edit?usp=sharing)
+- [Print da tela do Azure no localhost do WAMP](./apresentações/Screenshot(4).png)
 
 ##
 ![Apache2 bottom](https://img.shields.io/badge/Apache2-white?logo=apache&&logoColor=D22128&style=for-the-badge)
