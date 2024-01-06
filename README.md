@@ -12,7 +12,7 @@
 - [Apresentação em Slide](https://docs.google.com/presentation/d/1QPW3CmunJjaMgMAWBxxulVTeMCg9_qOblVGvjVvEsao/edit?usp=sharing)
 - [Print da tela do Azure no localhost do WAMP](./apresentações/Screenshot(4).png)
 
-## Site Online(WAMP)
+## Sites Online(WAMP)
 - [dramaknews.com.br](http://dramaknewscom.sytes.net)
 - [dramaknews.backend.biz](http://dramaknewsbackend.sytes.net)
 
